@@ -6,7 +6,7 @@ let ballSpeedX = 2; // Speed of the ball on the x-axis
 let ballSpeedY = 2; // Speed of the ball on the y-axis
 
 function setup() {
-  createCanvas(1500, 800);
+  createCanvas(750, 500); // Set the canvas
   ballX = width / 2; // Start the ball at the center of the canvas
   ballY = height / 2;
 }
